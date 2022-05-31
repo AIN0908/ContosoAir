@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/aindeegeeworks/Git/_apis/build/status/Git?branchName=master)](https://dev.azure.com/aindeegeeworks/Git/_build/latest?definitionId=18&branchName=master)
 
 
 # Microsoft.Github CI Demo
